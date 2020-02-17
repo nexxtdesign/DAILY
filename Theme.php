@@ -12,13 +12,13 @@ class Theme extends \Shopware\Components\Theme
     protected $name = 'Daily';
 
     /** @var string Description of the theme */
-    protected $description = 'Dein indivualisierbares Allround-Shopware-Theme';
+    protected $description = 'DAILY GMBH - Shopware-Theme';
 
     /** @var string The author of the theme */
-    protected $author = 'nexxtdesign';
+    protected $author = 'Amir Fayaz';
 
     /** @var string License of the theme */
-    protected $license = 'Proprietary';
+    protected $license = 'MIT';
 
     protected $injectBeforePlugins = false;
 
