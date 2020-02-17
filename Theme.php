@@ -107,7 +107,7 @@ class Theme extends \Shopware\Components\Theme
             $this->createColorPickerField(
                 'brand-primary-dark',
                 '@brand-primary-dark',
-                '#89161E'
+                '#0f140d'
             )
         );
         $basicFieldSet->addElement(
@@ -908,7 +908,7 @@ class Theme extends \Shopware\Components\Theme
         $fieldset->addElement(
             $this->createCheckboxField(
                 'show_backtop',
-                'Back to Top',
+                '__show_back_top__',
                 true,
                 [
                     'attributes' =>
