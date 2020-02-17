@@ -100,7 +100,7 @@ class Theme extends \Shopware\Components\Theme
             $this->createColorPickerField(
                 'brand-primary',
                 '@brand-primary',
-                '#BF3137'
+                '#93c351'
             )
         );
         $basicFieldSet->addElement(
